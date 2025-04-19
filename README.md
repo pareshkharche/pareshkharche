@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">📈 GitHub Stats</h4>
+<h4 align="center">📈 GitHub Stats</h4>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">Languages and tools I use:</h4>
+<h4 align="center">Languages and tools I use:</h4>
 
 ###
 
