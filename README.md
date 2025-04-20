@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="center">I am a Web developer with LITTLE interest in App-development. When I am not engaged with Web, I am usually asleep or playing Cricket.<br>New Update: Learning GenAI</h4>
+<h4 align="center">I am a Web developer with LITTLE interest in App-development. When I am not engaged with Web, I am usually asleep or playing Cricket.<br>New Update: Recently started learning Generative AI to stay ahead in tech.</h4>
 
 ###
 
